@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/bmichaels121/libro#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "dotenv": "^2.0.0",
+    "nodemon": "^1.11.0"
   }
 }
