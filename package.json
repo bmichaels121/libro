@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmichaels121/libro/issues"
   },
-  "homepage": "https://github.com/bmichaels121/libro#readme"
+  "homepage": "https://github.com/bmichaels121/libro#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
